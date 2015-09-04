@@ -2,11 +2,11 @@
 from setuptools import find_packages, setup
 
 setup(
-    name='ranking_real_time',
+    name='votacao_rest',
     description='None',
     author='Hudson Conceição da Silva',
     author_email='hud90cs@gmail.com',
-    url='',
+    url='git@github.com:hudsonconceicao/votacao-rest.git',
     version='0.1.0',
     packages=find_packages(),
     include_package_data=True,
